@@ -4,7 +4,7 @@ import requests
 import json
 
 TOKEN = "8165817286:AAG05D0uCQ4QeskaVcX6vffwbGjzKBhjEZU"
-AUDD_API_KEY = "68f586b545cc4e9066c712643c77175a"
+AUDD_API_KEY = "6b8c55e60195272ec4b66b4c5c28a9c3"
 
 def start(update, context):
     update.message.reply_text("🎵 Отправь мне видео или аудио, и я найду песню!")
